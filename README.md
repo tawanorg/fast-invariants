@@ -2,11 +2,6 @@
 
 A lightweight utility function to check multiple conditions with their corresponding messages, and throw an error when the conditions fail.
 
-[![Build Status](https://app.travis-ci.com/tawanorg/fast-invariants.svg?branch=main)](https://travis-ci.org/tawanorg/fast-invariants)
-[![npm](https://img.shields.io/npm/v/fast-invariants.svg)](https://www.npmjs.com/package/fast-invariants) [![dependencies](https://david-dm.org/tawanorg/fast-invariants.svg)](https://david-dm.org/tawanorg/fast-invariants)
-[![minzip](https://img.shields.io/bundlephobia/minzip/fast-invariants.svg)](https://www.npmjs.com/package/fast-invariants)
-[![Downloads per month](https://img.shields.io/npm/dm/fast-invariants.svg)](https://www.npmjs.com/package/fast-invariants)
-
 A tiny [`invariant`](https://www.npmjs.com/package/invariant) alternative.
 
 ## Installation
